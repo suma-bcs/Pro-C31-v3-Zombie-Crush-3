@@ -1,1 +1,2 @@
-# Pro-C31-v3-Zombie-Crush-3
+# zombie-crush-3
+project solution of c31
